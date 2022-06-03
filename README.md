@@ -16,3 +16,7 @@ or
 ```
 python3 app.py
 ```
+
+### app.exe File
+
+https://filedropper.com/d/s/ZutVkPwTetnIHENDEywDFGfKyhAAYZ
